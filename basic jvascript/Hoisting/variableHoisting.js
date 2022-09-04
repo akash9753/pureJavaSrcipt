@@ -5,7 +5,7 @@ var a = 10;
 console.log(l)//Cannot access 'l' before initialization     
 let l = 10;
 
-console.log(x); //x is not defined
+console.log(x); //x is not defined // x was not present in the memory //x is nowhere initilize in the program
 
 //const b;//'const' declarations must be initialized.
 

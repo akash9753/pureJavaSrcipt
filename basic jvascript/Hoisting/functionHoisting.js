@@ -1,9 +1,12 @@
-// var x = 7;
-// function getName(){
-//     console.log("namaste india");
-// }
-// getName()
-// console.log(x);
+
+
+var x = 7;
+function getName(){
+    console.log("namaste india");
+}
+getName()
+console.log(x);
+console.log(getName);
 //---------------------------
 // console.log(x);//x is not defined//x is not present in the memory
 //---------------------------
@@ -35,12 +38,13 @@
 //     console.log("namaste india");//namaste india
 // }
 //--------------------------------------
-getName()//undefined//it beahves like another varibale
-console.log(x);//undefined
-console.log(getName);
+// debugger
+// getName()//undefined//it beahves like another varibale
+// console.log(x);//undefined
+// console.log(getName);
 
-let x = 7;
+// let x = 7;
 
-var getName=()=>{
-    console.log("namaste india");
-}
+// var getName=()=>{
+//     console.log("namaste india");
+// }
